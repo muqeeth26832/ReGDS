@@ -1,0 +1,3 @@
+/home/muqeeth26832/Desktop/intern/ReGDS/ReGDS-Logic-Gate-Extraction/build/CMakeFiles/LGE.dir
+/home/muqeeth26832/Desktop/intern/ReGDS/ReGDS-Logic-Gate-Extraction/build/CMakeFiles/edit_cache.dir
+/home/muqeeth26832/Desktop/intern/ReGDS/ReGDS-Logic-Gate-Extraction/build/CMakeFiles/rebuild_cache.dir
